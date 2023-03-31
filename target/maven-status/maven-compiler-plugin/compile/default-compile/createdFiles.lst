@@ -1,0 +1,13 @@
+com\coffeemachine\coffeemachine\machine\CoffeeMachine$1.class
+com\coffeemachine\coffeemachine\controller\MenuController.class
+com\coffeemachine\coffeemachine\Launcher.class
+com\coffeemachine\coffeemachine\controller\FillController.class
+com\coffeemachine\coffeemachine\machine\CoffeeMachine$Resource.class
+com\coffeemachine\coffeemachine\machine\CoffeeMachine.class
+module-info.class
+com\coffeemachine\coffeemachine\controller\StatusController.class
+com\coffeemachine\coffeemachine\machine\CoffeeMachine$Coffee.class
+com\coffeemachine\coffeemachine\HelloApplication.class
+com\coffeemachine\coffeemachine\controller\WithdrawController.class
+com\coffeemachine\coffeemachine\controller\BuyController$1.class
+com\coffeemachine\coffeemachine\controller\BuyController.class
